@@ -1,0 +1,35 @@
+# Nature Linux theme for the Slim login manager.
+# Fu2y 2014
+
+# Messages (ie: shutdown)
+msg_color               #EE1289
+msg_font                Bitstream Vera Sans:size=18:bold:dpi=75
+msg_x                   12%
+msg_y                   85%
+
+
+# valid values: stretch, tile
+background_style        stretch
+
+
+# Input controls
+input_panel_x           142
+input_panel_y           942
+input_name_x            60	
+input_name_y            17
+input_pass_x		60
+input_pass_y            42
+input_font          	Droid Sans:size=12:bold
+input_color 		#63B8FF
+input_bgcolor 		#FFFFFF
+input_fgcolor           #FFFFFF
+
+
+# Username / password request
+username_font          	Bitstream Vera Sans:size=14:bold:dpi=75
+username_color        	#006699
+username_x              11
+username_y              111
+password_x              11
+password_y              111
+
